@@ -1,0 +1,1 @@
+default.json (config dependency is installed)  create global values that can be used throughout the application
